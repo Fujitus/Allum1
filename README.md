@@ -8,29 +8,29 @@
   * Développer en C et respectant la norme C imposer par Eiptech.
 
 # Le plateau de jeux :
-    * *********
-    * *   |   *
-    * *  |||  *
-    * * ||||| *
-    * *|||||||*
-    * *********
+     *********
+     *   |   *
+     *  |||  *
+     * ||||| *
+     *|||||||*
+     *********
 
-    * Your turn: 2
-    * Line: 3
+     Your turn: 2
+     Line: 3
 
-    * Player removed 3 match(es) from line 2
-    * *********
-    * *   |   *
-    * *       *
-    * * ||||| *
-    * *|||||||*
-    * *********
+     Player removed 3 match(es) from line 2
+     *********
+     *   |   *
+     *       *
+     * ||||| *
+     *|||||||*
+     *********
 
-    * AI's turn...
-    * AI removed 1 match(es) from line 1
-    * *********
-    * *       *
-    * *       *
-    * * ||||| *
-    * *|||||||*
-    * *********
+     AI's turn...
+     AI removed 1 match(es) from line 1
+     *********
+     *       *
+     *       *
+     * ||||| *
+     *|||||||*
+     *********
